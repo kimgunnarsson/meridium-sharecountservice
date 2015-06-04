@@ -1,7 +1,0 @@
-C:\Projects\Git\Meridium.ShareCountService\Meridium.ShareCountService\Meridium.ShareCountService\obj\Debug\Meridium.ShareCountService.csprojResolveAssemblyReference.cache
-C:\Projects\Git\Meridium.ShareCountService\Meridium.ShareCountService\Meridium.ShareCountService\bin\Debug\Meridium.ShareCountService.dll
-C:\Projects\Git\Meridium.ShareCountService\Meridium.ShareCountService\Meridium.ShareCountService\bin\Debug\Meridium.ShareCountService.pdb
-C:\Projects\Git\Meridium.ShareCountService\Meridium.ShareCountService\Meridium.ShareCountService\obj\Debug\Meridium.ShareCountService.dll
-C:\Projects\Git\Meridium.ShareCountService\Meridium.ShareCountService\Meridium.ShareCountService\obj\Debug\Meridium.ShareCountService.pdb
-C:\Projects\Git\Meridium.ShareCountService\Meridium.ShareCountService\Meridium.ShareCountService\bin\Debug\Newtonsoft.Json.dll
-C:\Projects\Git\Meridium.ShareCountService\Meridium.ShareCountService\Meridium.ShareCountService\bin\Debug\Newtonsoft.Json.xml
