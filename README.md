@@ -20,3 +20,8 @@ Retrieve Shares:
 ## Currently supporting
 - Facebook Open Graph
 - Twitter API
+
+
+## Dependencies
+- [JSON.net](https://www.nuget.org/packages/Newtonsoft.Json/5.0.8)
+- [NUnit](https://www.nuget.org/packages/NUnit/)
