@@ -10,6 +10,9 @@
     <description>A service for retrieving and concatenation of share counts for various social media endpoints.</description>
     <releaseNotes>First release</releaseNotes>
     <copyright>Copyright 2015</copyright>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="5.0.8" />
+    </dependencies>
   </metadata>
   <files>
     <file src="Meridium.ShareCountService/bin/Release/Meridium.ShareCountService.dll" target="lib\net45\" />
