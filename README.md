@@ -1,5 +1,6 @@
 Meridium.ShareCountService
 ---
+[![Build status](https://ci.appveyor.com/api/projects/status/smvsn5369evdnfg7/branch/master?svg=true)](https://ci.appveyor.com/project/kimgunnarsson/meridium-sharecountservice/branch/master)
 
 A service for retrieving and concatenation of share counts for various social media endpoints.
 
